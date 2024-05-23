@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @justinsunger
 - 👀 I’m interested in numerical optimization, CSM, CFM and biomedical problems.
 - 🌱 I’m currently learning cardiac dynamics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking forward to starting a computational biomechanics postdoc position in the Jolley Lab @ CHOP in July!
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I've been a balloon handler in the Philly Thanksgiving Day Parade for 
+- ⚡ Fun fact: I've been a balloon handler / volunteer in the Philly Thanksgiving Day Parade for 32 years!
+<!-- 📫 How to reach me ...-->
 
 <!---
 justinsunger/justinsunger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
