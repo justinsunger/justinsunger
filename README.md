@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @justinsunger
-- 👀 I’m interested in numerical optimization, CSM, CFM and biomedical problems.
+- 👀 I’m interested in numerical optimization, CSM, CFM and biomedical, materials and additive manufacturing problems.
 - 🌱 I’m currently learning cardiac dynamics
 - 💞️ I’m looking forward to starting a computational biomechanics postdoc position in the Jolley Lab @ CHOP in July!
 - 😄 Pronouns: he/him
