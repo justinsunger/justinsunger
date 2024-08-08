@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning cardiac dynamics
 - 💞️ I’m looking forward to starting a computational biomechanics postdoc position in the [Jolley Lab @ CHOP](https://github.com/JolleyLab?view_as=public) in July!
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I've been a balloon handler / volunteer in the Philly Thanksgiving Day Parade for 32 years test test2!
+- ⚡ Fun fact: I've been a balloon handler / volunteer in the Philly Thanksgiving Day Parade for 32 years test test2
+    test3!
 <!-- 📫 How to reach me ...-->
 
 <!---
